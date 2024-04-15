@@ -1,0 +1,5 @@
+matplot==0.1.9
+matplotlib==3.2.1
+numpy==1.16.6
+scipy==1.5.2
+rtree==1.0.0
